@@ -1,3 +1,6 @@
+# Migrated
+My fork of this project has moved: https://codeberg.org/newteq/firefox-based-sweet-theme
+
 ![Screenshot of the theme](images/preview.png)
 
 ## Description
