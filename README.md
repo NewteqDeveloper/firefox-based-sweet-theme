@@ -1,5 +1,5 @@
 # Original Author
-This was originally forked on this GitHub repo: [https://github.com/RubenVermeulen/generate-trusted-ssl-certificate](https://github.com/RubenVermeulen/generate-trusted-ssl-certificate)
+This was originally forked on this GitHub repo: [https://github.com/EliverLara/firefox-sweet-theme](https://github.com/EliverLara/firefox-sweet-theme)
 
 ## No license from original
 The original author did not provide a license for this work.
